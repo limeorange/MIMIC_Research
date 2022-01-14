@@ -1,1 +1,1 @@
-# MIMIC-
+# MIMIC 연구
