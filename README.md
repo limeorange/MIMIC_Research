@@ -6,9 +6,6 @@
 | 3 | Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model | Journal of Biomedical Informatics | 2022.07 ||
 
 
-
-
-
 <!-- 
 ## 💡 DSML 학부 연구생 프로젝트
 ### ☁️ 교내 Data Science 학회 
