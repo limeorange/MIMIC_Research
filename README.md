@@ -7,8 +7,7 @@
 ### ☁️ 국내 논문 - 한국정보과학회
 > Title : 중환자실 폐렴 환자에 대한 시뮬레이션 기반 시계열 사망 마커 탐지 (2022.06)
 <!-- <img width="600" alt="스크린샷 2022-06-15 오후 5 12 32" src="https://user-images.githubusercontent.com/78308684/173777118-7ac17aff-fdb1-4733-9ae7-b36e30ffae3d.png"> -->
-
-<img width="600" alt="스크린샷 2022-06-15 오후 5 13 56" src="https://user-images.githubusercontent.com/78308684/173777394-598060f2-af6f-4c4d-8d17-8c539b9416c3.png">
+<!-- <img width="600" alt="스크린샷 2022-06-15 오후 5 13 56" src="https://user-images.githubusercontent.com/78308684/173777394-598060f2-af6f-4c4d-8d17-8c539b9416c3.png"> -->
 <img width="600" alt="스크린샷 2022-06-15 오후 5 15 59" src="https://user-images.githubusercontent.com/78308684/173777863-0a614048-80e0-4133-8276-ee59c8cc029d.png">
 <!-- <img width="600" alt="스크린샷 2022-06-15 오후 5 13 25" src="https://user-images.githubusercontent.com/78308684/173777292-212bf67e-f092-48ab-a227-5bdeb6526b2a.png"> -->
 
