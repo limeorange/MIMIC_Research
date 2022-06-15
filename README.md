@@ -1,9 +1,16 @@
 ## 💡 DSML 학부 연구생 프로젝트
 ### ☁️ 교내 Data Science 학회 
 > Title : Voting ensemble LSTM을 이용한 중환자실 EMR 폐렴 환자 생존예측 (2021.11)
+<img width="600" alt="스크린샷 2022-06-15 오후 5 05 26" src="https://user-images.githubusercontent.com/78308684/173775713-6bda8188-f53b-44d3-99ad-553140b716c2.png">
+
 
 ### ☁️ 국내 논문 - 한국정보과학회
 > Title : 중환자실 폐렴 환자에 대한 시뮬레이션 기반 시계열 사망 마커 탐지 (2022.06)
+<!-- <img width="600" alt="스크린샷 2022-06-15 오후 5 12 32" src="https://user-images.githubusercontent.com/78308684/173777118-7ac17aff-fdb1-4733-9ae7-b36e30ffae3d.png"> -->
+<!-- <img width="600" alt="스크린샷 2022-06-15 오후 5 13 56" src="https://user-images.githubusercontent.com/78308684/173777394-598060f2-af6f-4c4d-8d17-8c539b9416c3.png"> -->
+<!-- <img width="600" alt="스크린샷 2022-06-15 오후 5 13 25" src="https://user-images.githubusercontent.com/78308684/173777292-212bf67e-f092-48ab-a227-5bdeb6526b2a.png"> -->
+<img width="600" alt="스크린샷 2022-06-15 오후 5 15 59" src="https://user-images.githubusercontent.com/78308684/173777863-0a614048-80e0-4133-8276-ee59c8cc029d.png">
+
 
 ### ☁️ 해외 논문 - Journal of Biomedical Informatics
 > Title : Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model
