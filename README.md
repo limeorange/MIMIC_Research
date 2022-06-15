@@ -1,5 +1,10 @@
-## 🔎 DSML 학부 연구생 프로젝트 💡
-> 프로젝트명 : 의료데이터 예측 모델 구현 + 폐렴환자의 생존에 영향을 미치는 의료 바이오 마커 탐지 (Detection of medical biomarkers affecting mortality in patients with intensive care unit EMR pneumonia)
+# 🔎 DSML 학부 연구생 프로젝트 💡
+## 1. Data Science 학회
+> Voting ensemble LSTM을 이용한 중환자실 EMR 폐렴 환자 생존예측
+> 
+<img width="850" alt="스크린샷 2022-06-15 오후 4 05 02" src="https://user-images.githubusercontent.com/78308684/173764028-249a8ea2-df7a-4b9e-afcb-eb5aa159e293.png">
+
+
 * 2021.06 ~ 
 * 추후 국내/해외 논문을 목표로 함.
 * MIMIC_III 데이터를 사용하여 mortality prediction 모델을 구축한 후 생존에 영향을 미치는 feature 선별하는 연구 
