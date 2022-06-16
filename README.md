@@ -1,9 +1,9 @@
 ## 💡 DSML 학부 연구생 프로젝트
-| No | Title | Conference | Date | Blog |
-|:--:|:-----:|:----:|:----------:|:----:|
-| 1 | Voting ensemble LSTM을 이용한 중환자실 EMR 폐렴 환자 생존예측 | 교내 Data Science 학회 | 2021.11 ||
-| 2 | [중환자실 폐렴 환자에 대한 시뮬레이션 기반 시계열 사망 마커 탐지](https://github.com/limeorange/MIMIC_Research/tree/main/%EA%B5%AD%EB%82%B4_%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%EA%B3%BC%ED%95%99%ED%9A%8C) | 한국정보과학회 | 2022.06 ||
-| 3 | Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model | Journal of Biomedical Informatics | 2022.07 ||
+| No | Title | Conference | Date |
+|:--:|:-----:|:----:|:----------:|
+| 1 | Voting ensemble LSTM을 이용한 중환자실 EMR 폐렴 환자 생존예측 | 교내 Data Science 학회 | 2021.11 |
+| 2 | 중환자실 폐렴 환자에 대한 시뮬레이션 기반 시계열 사망 마커 탐지 | 한국정보과학회 | 2022.06 |
+| 3 | Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model | Journal of Biomedical Informatics | 2022.07 |
 
 
 <!-- 
