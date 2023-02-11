@@ -6,7 +6,7 @@
 |:--:|:-----:|:----:|:----------:|
 | 1 | Voting ensemble LSTM을 이용한 중환자실 EMR 폐렴 환자 생존예측 | 교내 Data Science 학회 | 2021.11 |
 | 2 | 중환자실 폐렴 환자에 대한 시뮬레이션 기반 시계열 사망 마커 탐지 | 한국정보과학회 | 2022.06 |
-| 3 | Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model | Journal of Biomedical Informatics | 2022.07 |
+| 3 | Identification of Pattern-Specific Time-Series Marker Based on Data Simulation on LSTM Model in Application to Mortality of Pneumonia Patients in Intensive Care Unit | Journal of Biomedical Informatics | 2022.07 |
 
 
 <!-- 
