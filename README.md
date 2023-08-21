@@ -5,7 +5,7 @@
 | No | Title | Conference | Date |
 |:--:|:-----:|:----:|:----------:|
 | 1 | [Voting ensemble LSTM을 이용한 중환자실 EMR 폐렴 환자 생존예측](https://drive.google.com/file/d/1t5TnVJJ1ao9-9NiLE6SR0nmTkkjBuQNj/view?usp=sharing) | 교내 Data Science 학회 | 2021.11 |
-| 2 | 중환자실 폐렴 환자에 대한 시뮬레이션 기반 시계열 사망 마커 탐지 | 한국정보과학회 | 2022.06 |
+| 2 | [중환자실 폐렴 환자에 대한 시뮬레이션 기반 시계열 사망 마커 탐지](https://drive.google.com/file/d/1i3AKqFJbLsTTfpYngTa2-lX7DGGjcEW6/view?usp=sharing) | 한국정보과학회 | 2022.06 |
 | 3 | Identification of Pattern-Specific Time-Series Marker Based on Data Simulation on LSTM Model in Application to Mortality of Pneumonia Patients in Intensive Care Unit | Journal of Biomedical Informatics | 2023.02 |
 
 
