@@ -5,9 +5,9 @@ Mortality Analysis of Pneumonia Patients in Intensive Care Unit
 
 | No | Title | Conference | Date |
 |:--:|:-----:|:----:|:----------:|
-| 1 | [Survival Prediction of ICU Pneumonia Patients Using Voting ensemble LSTM](https://drive.google.com/file/d/1t5TnVJJ1ao9-9NiLE6SR0nmTkkjBuQNj/view?usp=sharing) | USW Data Science Conference | 2021.11 |
+| 1 | [Identification of Time-Series Pattern Marker in Its Application to Mortality Analysis of Pneumonia Patients in Intensive Care Unit](https://www.mdpi.com/2075-4426/14/8/812) | Journal of Personalized Medicine | 2024.07 |
 | 2 | [Simulation-Based Time-Series Death Marker Detection for ICU Pneumonia Patients](https://drive.google.com/file/d/1i3AKqFJbLsTTfpYngTa2-lX7DGGjcEW6/view?usp=sharing) | Korean Institute of Information Scientists and Engineers | 2022.06 |
-| 3 | Identification of Time-Series Pattern Marker in its Application to Mortality Analysis of Pneumonia Patients in Intensive Care Unit | Journal of Personalized Medicine | 2024.03 |
+| 3 | [Survival Prediction of ICU Pneumonia Patients Using Voting ensemble LSTM](https://drive.google.com/file/d/1t5TnVJJ1ao9-9NiLE6SR0nmTkkjBuQNj/view?usp=sharing) | USW Data Science Conference | 2021.11 |
 
 ### ☁️ MIMIC_III
 - [MIMIC-III Documentation](https://mimic.mit.edu/docs/iii/)
